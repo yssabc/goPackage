@@ -1,0 +1,2 @@
+# goPackage
+golang package
